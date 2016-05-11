@@ -1,0 +1,14 @@
+layout_spectrum: 0.6214165
+typography_spectrum: 0.8271501
+color:
+  lightness: 0.5177066
+  brandStrength: 0.8503488
+  saturation: 0.841484
+  rhythmicContrast: 0.4890388
+  brandColors:
+    - '#0C021A'
+    - '#E1520E'
+    - '#C32E0E'
+    - '#47040E'
+    - '#C6C0C0'
+name: HDRotary
